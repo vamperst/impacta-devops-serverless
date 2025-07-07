@@ -14,7 +14,7 @@
 
 ### Enviando dados para a fila
 
-1. No terminal do CLoud 9 IDE criado no codespaces execute o comando `cd ~/environment/impacta-devops-serverless/02-Serverless/02-SQS/01-Standard-Queue/` para entrar na pasta que fara este exercicio.
+1. No terminal do CLoud 9 IDE criado no codespaces execute o comando `cd /workspaces/impacta-devops-serverless/02-Serverless/02-SQS/01-Standard-Queue/` para entrar na pasta que fara este exercicio.
 2. Abra o arquivo put.py com o comando `code put.py`
 3. Altere o arquivo put.py adicionando a URL da fila do sqs que criou nos passos anteriores
 

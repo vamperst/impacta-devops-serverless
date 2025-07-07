@@ -1,4 +1,4 @@
-1. Execute o comando `cd ~/environment/impacta-devops-serverless/01-Devops/01-Terraform/demos/03-Count/` para entrar no diretório do exercício.
+1. Execute o comando `cd /workspaces/impacta-devops-serverless/01-Devops/01-Terraform/demos/03-Count/` para entrar no diretório do exercício.
 2. Execute o comando `terraform init`
 3. Execute o comando `terraform apply -auto-approve`
 

@@ -1,5 +1,5 @@
 
-1. Execute o comando `cd ~/environment/impacta-devops-serverless/01-Devops/01-Terraform/demos/05-Workspaces/` para entrar na pasta do exercicío.
+1. Execute o comando `cd /workspaces/impacta-devops-serverless/01-Devops/01-Terraform/demos/05-Workspaces/` para entrar na pasta do exercicío.
 2. tilize o comando `c9 open state.tf` para abrir o arquivo responsavel por configurar o estado remoto e adicione o do seu bucket S3 na linha 3. Caso não se lembre o nome do bucket execute o comando `aws s3 ls`.
 3. Execute o comando `terraform init` para inicializar o terraform. Caso tenha dado erro porque o nome do bucket esta incorreto você terá que reconfigurar o estado remoto com o comando `terraform init -reconfigure`.
 

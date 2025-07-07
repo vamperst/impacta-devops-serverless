@@ -3,7 +3,7 @@
 **Antes de começar, execute os passos abaixo para configurar o ambiente caso não tenha feito isso ainda na aula de HOJE: [Preparando Credenciais](../../01-create-codespaces/Inicio-de-aula.md)**
 
 
-1. No terminal do IDE criado no codespaces execute o comando `cd ~/environment/impacta-devops-serverless/02-Serverless/01-Lambda/02-Layers/` para entrar na pasta que fara este exercicio.
+1. No terminal do IDE criado no codespaces execute o comando `cd /workspaces/impacta-devops-serverless/02-Serverless/01-Lambda/02-Layers/` para entrar na pasta que fara este exercicio.
    
 2. Iniciar o repositório de trabalho `sls create --template "aws-python3"`.
   

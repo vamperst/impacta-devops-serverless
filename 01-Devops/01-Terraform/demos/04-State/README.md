@@ -1,4 +1,4 @@
-1. Execute o comando `cd ~/environment/impacta-devops-serverless/01-Devops/01-Terraform/demos/04-State/` para entrar na pasta do exercicío.'
+1. Execute o comando `cd /workspaces/impacta-devops-serverless/01-Devops/01-Terraform/demos/04-State/` para entrar na pasta do exercicío.'
 2. Vamos utilizar o bucket criado na configuração inicial para guardar o estado remoto. Caso não se lembre o nome utilize o comando `aws s3 ls` para poder copiar o nome.
 
     ![](images/s3nome.png)

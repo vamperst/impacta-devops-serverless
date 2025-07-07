@@ -1,4 +1,4 @@
-1. Execute o comando `cd ~/environment/impacta-devops-serverless/01-Devops/01-Terraform/demos/02-Modules/` para entrar na pasta do exercício.
+1. Execute o comando `cd /workspaces/impacta-devops-serverless/01-Devops/01-Terraform/demos/02-Modules/` para entrar na pasta do exercício.
 
 <details>
 <summary> 
@@ -291,7 +291,7 @@ Para mais informações, consulte a [documentação oficial do Terraform](https:
 -------
    ![sub](images/subnetscreated.png)
 
-7. Agora vamos subir as Route Tables. Para tal volte uma pasta com o comando `cd ~/environment/impacta-devops-serverless/01-Devops/01-Terraform/demos/02-Modules/` e entre em rt-call com o comando `cd RT-call/`
+7. Agora vamos subir as Route Tables. Para tal volte uma pasta com o comando `cd /workspaces/impacta-devops-serverless/01-Devops/01-Terraform/demos/02-Modules/` e entre em rt-call com o comando `cd RT-call/`
 8. Execute o comando `terraform init`
 9.  Execute o comando `terraform plan`
 10. Execute o comando `terraform apply -auto-approve`

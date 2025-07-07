@@ -1,4 +1,4 @@
-1. Execute o comando `cd ~/environment/impacta-devops-serverless/01-Devops/01-Terraform/demos/01-Plan-Apply/` para entrar na pasta do exercício.
+1. Execute o comando `cd /workspaces/impacta-devops-serverless/01-Devops/01-Terraform/demos/01-Plan-Apply/` para entrar na pasta do exercício.
 2. Entre na pasta EC2 `cd EC2` para executar o primeiro exemplo que irá provisionar uma maquina EC2 na AWS.
 3. Execute o comando `terraform init`
 

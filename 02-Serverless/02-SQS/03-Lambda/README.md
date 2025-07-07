@@ -2,7 +2,7 @@
 
 **Antes de começar, execute os passos abaixo para configurar o ambiente caso não tenha feito isso ainda na aula de HOJE: [Preparando Credenciais](../../01-create-codespaces/Inicio-de-aula.md)**
 
-1. No terminal do IDE criado no codespaces execute o comando `cd ~/environment/impacta-devops-serverless/02-Serverless/02-SQS/03-Lambda/` para entrar na pasta que fara este exercicio.
+1. No terminal do IDE criado no codespaces execute o comando `cd /workspaces/impacta-devops-serverless/02-Serverless/02-SQS/03-Lambda/` para entrar na pasta que fara este exercicio.
 2. Execute o comando `sls create --template "aws-python3"` no terminal para criar os arquivos do serverless framework.
 3. Altere o handler.py para ficar como na imagem. Não esqueça de colocar a URL da sua fila de destino. Abra com o comando `code handler.py`. Para conseguir a URL da fila de destino você pode utilizar o comando `aws sqs get-queue-url --queue-name demoqueue_dest | jq .QueueUrl`
 
